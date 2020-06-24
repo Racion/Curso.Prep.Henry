@@ -1,0 +1,7 @@
+for: es un ciclo o un bucle usado para repetir acciones, dependiendo de lo que se busque, este comando necesita 3 argumento, el primero sera a partir de cuando se hara el recorrido o el inicio, el segundo valor es cuantas veces realizara el bucle, y el tercer valor es el incremento de cuanto en cuanto queremos avanzar dentro del ciclo, este puede ser incremental o decremental.
+
+&& o AND o Y: es un operador logico que comprueba condiciones, el resultado de este puede ser falso o verdadero dependiendo de los operandos, para que este nos retorne un valor verdadero debe cumplirse que ambos operandos sean verdaderos de ahi su nombre Y porque debe se ambos.
+
+|| o OR o O: es un operador logico que comprueba si alguno de sus operandos cumple las condiciones en este caso los unicos valores que dan como respuesta falsa son falso o falso porque no se cumple la premisa de de uno O || el otro.
+
+! o Negacion o Not: este operador logico su funcion es negar el valor de su operando, por ejemplo si tenemos un a<b en el caso que a sea mayor que b el resultado sera verdadero, pero si aplicamos el operador !(a>b) en el caso anterior que a efectivamente sea mayor que b el resultado es verdadero pero al aplicarle ! nos negara este y devolvera el resultado como falso.
