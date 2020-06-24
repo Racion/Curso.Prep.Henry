@@ -1,0 +1,9 @@
+Variables: una variable es usada para almacenar o guardar un dato para su utilizacion mas adelante, estas tienen diferentes tipos.
+
+String: es una cadena de caracteres y un tipo de dato, para verlo de forma mas sencilla podriamos verlo como una palabra o una frase o un dato alfanumerico definido como un String y almacenado dentro de una variable.
+
+Funciones: son objetos dentro de nuestro codigo al cual le asignaremos una tarea especifica la cual se podria repetir dentro de nuestro codigo, las funciones podrian recibir objetos o variables de entrada las cuales seran usadas dentro de su proceso interno, estas nos ayudan a hacer nuestro codigo modular. Dentro de estas es comun usar el comando return el cual lo usamos para tener una respuesta de la funcion, es el dato que deseamos que nos devuelva o retorne la funcion para su uso mas adelante, no es obligatorio que nuestras funciones siempre tengan return.
+
+If o condicionales: un condicional nos ayuda a comprobar el resultado de una condicion especifica si esta se cumple ingresara dentro del bloque de codigo especifico, podriamos dar un ejemplo simple que seria como tenemos dos datos de valor numerico y deseamos saber cual de los 2 es mayor que el otro, para eso usariamos los condicionales cuando se cumpla la condicion de a>b mostrasemos un mensaje diciendo el numero a es mayor que b, en caso contrario usariamos el complemento del if que seria else if y la condicion seria b>a si esta condicion se cumple mostrar el mensaje deseado, si ninguna de estas dos condiciones se cumplen tendria otro apartado de los condicionales llamado else que seria el modo de saber si nuestras condiciones anteriores fallaron mostrar el mensaje de que fallaron.
+
+Boolean: los tipos de datos booleanos solo admiten 2 valores, true(verdadero) o false(falso), estos nos sirven para comprobar alguna accion de activacion o deactivacion, o saber si alguna accion fue realizada cambiar su valor y comprobar si se hizo o no.
